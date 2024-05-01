@@ -1,0 +1,43 @@
+body {
+    background-color:pink;
+    border-radius: 233;
+    font-family: Arial, sans-serif;
+    
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.product-bundle {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.chocolates label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.chocolates img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.total-price {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.notification {
+    margin-top: 10px;
+    font-size: 14px;
+    color: red;
+}
